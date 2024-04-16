@@ -1,0 +1,23 @@
+* {
+  font-family: Orbitron, Arial;
+}
+
+body {
+  padding: 18px;
+  padding-left: 350px;
+  padding-right: 75px;
+  margin-top: 0;
+
+  background-color: var(--bg);
+
+  margin-bottom: 5000px;
+}
+
+:root {
+  --bg: rgb(0, 4, 39);
+}
+
+.home > * {
+  width: 100%;
+  margin-bottom: 100px;
+}
